@@ -1,7 +1,7 @@
 {
-  "name": "js-helpers",
+  "name": "js-utils",
   "version": "1.0.1",
-  "description": "js-helper is a simple library that includes many many useful methods as helpers (like number seprator, height detector, scroll to specific element, ...).",
+  "description": "js-utils is a simple library that includes many many useful methods as utils (like number seprator, height detector, scroll to specific element, ...).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/Mehdi-Khoshnevisz/js-helpers.git"
   },
   "keywords": [
-    "js-helpers",
-    "helpers",
+    "js-utils",
+    "utils",
     "js"
   ],
   "author": "mehdi khoshnevisz",

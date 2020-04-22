@@ -1,6 +1,6 @@
 {
   "name": "js-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "js-helper is a simple library that includes many many useful methods as helpers (like number seprator, height detector, scroll to specific element, ...).",
   "main": "index.js",
   "scripts": {

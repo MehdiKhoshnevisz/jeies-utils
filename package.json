@@ -1,24 +1,24 @@
 {
-  "name": "js-utils",
+  "name": "jutils",
   "version": "1.0.1",
-  "description": "js-utils is a simple library that includes many many useful methods as utils (like number seprator, height detector, scroll to specific element, ...).",
+  "description": "jutils is a simple library that includes many many useful methods as utils (like number seprator, height detector, scroll to specific element, ...).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mehdi-Khoshnevisz/js-utils.git"
+    "url": "git+https://github.com/Mehdi-Khoshnevisz/jutils.git"
   },
   "keywords": [
-    "js-utils",
+    "jutils",
     "utils",
     "js"
   ],
   "author": "mehdi khoshnevisz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mehdi-Khoshnevisz/js-utils/issues"
+    "url": "https://github.com/Mehdi-Khoshnevisz/jutils/issues"
   },
-  "homepage": "https://github.com/Mehdi-Khoshnevisz/js-utils#readme"
+  "homepage": "https://github.com/Mehdi-Khoshnevisz/jutils#readme"
 }

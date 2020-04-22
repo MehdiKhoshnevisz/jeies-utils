@@ -1,5 +1,5 @@
 ## what is this?
-js-utils is a simple library that includes many many useful methods as helpers (like number seprator, height detector, scroll to specific element, ...).
+jutils is a simple library that includes many many useful methods as helpers (like number seprator, height detector, scroll to specific element, ...).
 
 ## why?
 when you started a js project, you must have a file as utils or helpers. so i think this library helps you to prevent write your file and saving your time. 😉
@@ -8,7 +8,7 @@ when you started a js project, you must have a file as utils or helpers. so i th
 
 ## install it
 ```sh
-$ npm install js-utils --save
+$ npm install jutils --save
 ```
 
 ## help js-utils

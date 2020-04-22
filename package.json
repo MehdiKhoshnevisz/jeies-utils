@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mehdi-Khoshnevisz/js-helpers.git"
+    "url": "git+https://github.com/Mehdi-Khoshnevisz/js-utils.git"
   },
   "keywords": [
     "js-utils",
@@ -18,7 +18,7 @@
   "author": "mehdi khoshnevisz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mehdi-Khoshnevisz/js-helpers/issues"
+    "url": "https://github.com/Mehdi-Khoshnevisz/js-utils/issues"
   },
-  "homepage": "https://github.com/Mehdi-Khoshnevisz/js-helpers#readme"
+  "homepage": "https://github.com/Mehdi-Khoshnevisz/js-utils#readme"
 }
